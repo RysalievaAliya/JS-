@@ -60,7 +60,7 @@
 
 //? pop Выбрасывает последний элемент, после чего его можно словить
 // const friends = ['Peter', 'Harry', 'John', 'Dave', ['Sam','Ed', 'Michael']];
-// console.log(friends.pop()); 
+// console.log(friends.pop());
 // const deleted = friends.pop();
 // console.log(deleted);
 // console.log(friends);
@@ -107,6 +107,10 @@
 // const friends = ['Peter', 'Harry', 'John', 'Dave', 'Том'];
 // const joined = friends.join(`${name}`)
 // console.log(joined);
+
+// const friends1 = ['Peter', 'Harry', 'John', 'Dave', 'Том'];
+// const joined1 = friends1.join('+')
+// console.log(joined1);
 
 //? split
 // const str = 'Peter and Harry and John and Dave and Tom';
