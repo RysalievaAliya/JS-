@@ -37,10 +37,6 @@
 //!ARRAY
 // let arr = [1, 2, 3, 4, 5];
 
-//? slice - копирует элменты ([start], [end]) и создает новый массив
-// let arr2 = [6, 7, 8, 9, 10];
-// let arr3 = arr.slice([3],[4]);
-// console.log(arr3);
 
 // let newArr = [1, "first", null, false];
 // console.log(newArr);
